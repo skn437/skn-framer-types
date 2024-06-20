@@ -1,6 +1,6 @@
 # SKN Framer Motion Type Extension Library
 
-<img width="150px" src="https://firebasestorage.googleapis.com/v0/b/skn-ultimate-project-la437.appspot.com/o/GitHub%20Library%2F08-TypeScript-SRT.svg?alt=media&token=5ada477b-a37e-4cdd-be35-19e1e89de649" alt="animation" />
+<img width="150px" src="https://firebasestorage.googleapis.com/v0/b/skn-ultimate-project-la437.appspot.com/o/GitHub%20Library%2F13-TypeScript-SFT.svg?alt=media&token=f520fecc-bb79-4627-b98b-f486420f15ae" alt="animation" />
 
 > TypeScript React
 
