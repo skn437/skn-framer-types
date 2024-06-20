@@ -57,19 +57,17 @@ declare module "framer-motion" {
    *  const HomeComponent: React.FC<unknown> = () => {
    *    return (
    *      <motion.div
-   *        className="container"
    *        variants={anime.container} //* Put your variants here
    *        initial="hidden"
    *        animate="visible"
    *      >
-   *       <motion.div
-   *         className="box"
-   *         variants={anime.box} //* Put your variants here
-   *         initial="hidden"
-   *         animate="visible"
-   *       >
-   *        <!-- other elements here... -->
-   *       </motion.div>
+   *        <motion.div
+   *          variants={anime.box} //* Put your variants here
+   *          initial="hidden"
+   *          animate="visible"
+   *        >
+   *          <!-- other elements here... -->
+   *        </motion.div>
    *      </motion.div>
    *    );
    *  };
