@@ -165,7 +165,6 @@
 ##### (1) React CSX styles with motion style compatibility in separate file
 
 > ```typescript
-> import { motion } from "framer-motion";
 > import type { CsxAnime } from "framer-motion";
 >
 > type key = "container" | "box"; // * Create class names here
@@ -195,6 +194,7 @@
 > ```typescript jsx
 > "use client"
 >
+> import { motion } from "framer-motion";
 > import { csx } from "./csx.ts";
 >
 > const HomeComponent: React.FC<unknown> = () => {

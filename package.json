@@ -1,7 +1,7 @@
 {
   "name": "@best-skn/framer-types",
   "description": "A Simple Type Definition Extension Library For Framer Motion 11",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "",
   "types": "index.d.ts",
   "files": [

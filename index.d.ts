@@ -5,7 +5,7 @@ import type { CSSProperties } from "react";
  * SKN Framer Motion Type Extension Library
  *
  * @author SKN Shukhan
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2024-06-20
  * */
 declare module "framer-motion" {
@@ -90,7 +90,6 @@ declare module "framer-motion" {
    * Example:
    *
    * ```typescript
-   * import { motion } from "framer-motion";
    * import type { CsxAnime } from "framer-motion";
    *
    * type key = "container" | "box"; // * Create class names here
@@ -118,6 +117,7 @@ declare module "framer-motion" {
    * ```typescript jsx
    * "use client"
    *
+   *  import { motion } from "framer-motion";
    *  import { csx } from "./csx.ts";
    *
    *  const HomeComponent: React.FC<unknown> = () => {
