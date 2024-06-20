@@ -1,0 +1,40 @@
+{
+  "name": "@best-skn/framer-types",
+  "description": "A Simple Type Definition Extension Library For Framer Motion 11",
+  "version": "1.0.0",
+  "main": "",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skn437/skn-framer-types.git"
+  },
+  "keywords": [
+    "react",
+    "type",
+    "library",
+    "next",
+    "animation",
+    "framer",
+    "motion"
+  ],
+  "author": {
+    "name": "SKN Shukhan",
+    "email": "skn437physx@gmail.com",
+    "url": "https://skn.best"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "@types/react": ">= 18.3.3 < 19",
+    "@types/react-dom": ">= 18.3.0 < 19",
+    "framer-motion": ">= ^11.2.11 < 12",
+    "react": ">= 18.3.1 < 19",
+    "react-dom": ">= 18.3.1 < 19"
+  }
+}
