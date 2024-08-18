@@ -5,7 +5,7 @@ import type { CSSProperties } from "react";
  * SKN Framer Motion Type Extension Library
  *
  * @author SKN Shukhan
- * @version 1.0.1
+ * @version 1.0.2
  * @since 2024-06-20
  * */
 declare module "framer-motion" {
